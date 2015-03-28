@@ -1,0 +1,10 @@
+.logo img {
+	margin-left: auto;
+    margin-right: auto;  
+}
+
+.buttons button {
+	display: inline;
+	margin-right: auto;
+	color: #5a5a5a;
+}
